@@ -1,4 +1,5 @@
-Payroll System Project
+**Payroll System Project**
+
 This project implements a simple payroll system in Java to manage full-time and part-time employees, calculate their salaries, and manage employee data. It demonstrates the use of object-oriented principles such as inheritance, abstraction, and polymorphism.
 
 Features
